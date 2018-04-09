@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Hi+Melody');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+.navbar-default {
+  background-color: #F9A828;
+}
+
+.navbar-default img {
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.nav_description {
+  font-family: 'Hi Melody', cursive;
+  text-align: center;
+  font-size: 170%;
+  font-weight: bold;
+}
+
+.foto_niño img {
+  height: 400px;
+  width: 330px;
+  max-width: 100%;
+}
+
+
+.fotos {
+  margin-top: 13%;
+}
+
+.video {
+  margin-bottom: 3%;
+  margin-top: 5%;
+  font-family: 'Roboto', sans-serif;
+
+}
+.hs-responsive-embed-youtube iframe {
+  max-width: 100% !important;
+}
+
+.pasos_donar {
+  font-family: 'Roboto', sans-serif;
+  background-color: #F9A828;
+}
+
+.numero_paso {
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%;
+  background-color: #C00000;
+  color: white;
+  font-size: 230%;
+
+}
+
+
+.pasos_content {
+  margin: 5% 0% 0% 0%;
+  text-align: center;
+}
+
+.paso {
+  margin-bottom: 13%;
+}
+
+.donacion_main {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+.btn_donar {
+  background-color: #C00000;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+.footer {
+  background-color: #F9A828;
+}
+
+.ico_redes {
+  float: right;
+  padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.ico_redes i {
+margin-left: 20px;
+}
+
+.ico_redes a {
+  color:  #333;
+}
+.ico_redes a:hover {
+text-decoration: none;
+}
+.main_donar {
+  border: 2px solid #C00000;
+  padding: 2% 0% 2% 0%;
+  border-radius: 0.5%;
+}
