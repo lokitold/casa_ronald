@@ -4,6 +4,10 @@
 body {
   background-color: #E7BB20;
 }
+
+.main {
+  background-color: white;
+}
 .logo{
   padding-top: 1%;
   padding-bottom: 1%;
