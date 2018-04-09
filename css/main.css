@@ -43,7 +43,7 @@
 }
 
 .numero_paso {
-  /*height: 50px;*/
+  height: 50px;
   width: 50px;
   display: inline-block;
   text-align: center;
