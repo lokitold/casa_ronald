@@ -2,10 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:700');
 
 body {
-  background-color: #F8F8F8;
+  background-color: #E7BB20;
 }
 .logo{
   padding-top: 1%;
+  padding-bottom: 1%;
 }
 
 .navbar-default {
@@ -20,6 +21,9 @@ body {
   font-weight: bold;
 }
 
+.nav_description h3 {
+  margin-top: 0%;
+}
 
 .foto_niño img {
   height: 350px;
@@ -86,7 +90,7 @@ body {
 
 .footer h4 {
   font-family: 'Open Sans', sans-serif;
-  color: black;
+  color: white;
 }
 
 .ico_redes {
