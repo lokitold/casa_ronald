@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:700');
 
 body {
-  background-color: #E7BB20;
+  background-color: #FFC829;
 }
 
 .main {
@@ -21,7 +21,7 @@ body {
 .nav_description {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
-  color: #BE0021;
+  color: #DA291C;
   font-weight: bold;
 }
 
@@ -62,7 +62,7 @@ body {
   text-align: center;
   vertical-align: middle;
   border-radius: 50%;
-  background-color: #BE0021;
+  background-color: #DA291C;
   color: white;
   font-size: 253%;
 
@@ -83,13 +83,13 @@ body {
 
 
 .btn_donar {
-  background-color: #BE0021;
+  background-color: #DA291C;
   color: white;
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
 .footer {
-  background-color: #BE0021;
+  background-color: #DA291C;
 }
 
 .footer h4 {
