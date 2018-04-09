@@ -1,35 +1,42 @@
 @import url('https://fonts.googleapis.com/css?family=Hi+Melody');
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:700');
 
-
-.navbar-default {
-  background-color: #F9A828;
+body {
+  background-color: #F8F8F8;
+}
+.logo{
   padding-top: 1%;
-  padding-bottom: 1%;
 }
 
+.navbar-default {
+  background-color: white;
+}
+
+
 .nav_description {
-  font-family: 'Hi Melody', cursive;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
-  font-size: 170%;
+  color: #BE0021;
   font-weight: bold;
 }
 
+
 .foto_niño img {
-  height: 400px;
-  width: 330px;
+  height: 350px;
+  width: 300px;
   max-width: 100%;
 }
 
 
 .fotos {
-  margin-top: 15%;
+  margin-top: 13%;
+  text-align: center;
 }
 
 .video {
   margin-bottom: 3%;
   margin-top: 5%;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 
 }
 .hs-responsive-embed-youtube iframe {
@@ -37,7 +44,7 @@
 }
 
 .pasos_donar {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .numero_paso {
@@ -47,12 +54,11 @@
   text-align: center;
   vertical-align: middle;
   border-radius: 50%;
-  background-color: #F9A828;
+  background-color: #BE0021;
   color: white;
   font-size: 253%;
 
 }
-
 
 .pasos_content {
   margin: 5% 0% 0% 0%;
@@ -64,23 +70,22 @@
 }
 
 .donacion_main {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
 .btn_donar {
-  background-color: #C00000;
+  background-color: #BE0021;
   color: white;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
 .footer {
-  background-color: #F9A828;
+  background-color: #BE0021;
 }
 
 .footer h4 {
-  font-family: 'Hi Melody', cursive;
-  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
   color: black;
 }
 
@@ -94,7 +99,7 @@ margin-left: 20px;
 }
 
 .ico_redes a {
-  color:  #333;
+  color:  white;
 }
 .ico_redes a:hover {
 text-decoration: none;
