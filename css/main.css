@@ -121,10 +121,12 @@ text-decoration: none;
   font-weight: bold;
 }
 
-.caption-style-3 .blur {
-  background-color: rgba(192, 0, 0,0.6);
-  height: 100px;
-  width: 500px;
-  z-index: 5;
+.caption-style-3 .caption-text {
+  z-index: 10;
   position: absolute;
+  width: 350px;
+  height: 300px;
+  text-align: center;
+  top: 20px;
+  font-family: 'Roboto', sans-serif;
 }
