@@ -31,7 +31,8 @@ body {
 
 .foto_niño img {
   height: 340px;
-  width: 320px;
+  /*width: 320px;*/
+  width: 100%;
   max-width: 100%;
 }
 
