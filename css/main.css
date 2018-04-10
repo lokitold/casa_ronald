@@ -120,3 +120,11 @@ text-decoration: none;
   color: #DA291C;
   font-weight: bold;
 }
+
+.caption-style-3 .blur {
+  background-color: rgba(192, 0, 0,0.6);
+  height: 100px;
+  width: 500px;
+  z-index: 5;
+  position: absolute;
+}
