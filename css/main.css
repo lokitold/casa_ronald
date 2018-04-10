@@ -112,3 +112,10 @@ margin-left: 20px;
 .ico_redes a:hover {
 text-decoration: none;
 }
+
+.imagen-madre-doctor {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: #DA291C;
+  font-weight: bold;
+}
